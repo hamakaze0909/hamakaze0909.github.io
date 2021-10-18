@@ -3,7 +3,10 @@
 ## 構成
 
 ```txt
+Page template: HTML5 UP
 
+FFXIV ファンキットを使用しています
+Copyright (C) SQUARE ENIX CO., LTD. All Rights Reserved. https://jp.finalfantasyxiv.com/lodestone/special/fankit/
 ```
 
 
